@@ -1,0 +1,30 @@
+.con{
+    
+    background: -webkit-linear-gradient(left,rgb(0, 255, 55),rgb(93, 158, 85),rgb(23, 149, 46),rgb(130, 255, 113));
+    height:500px;
+    width:400px;
+    margin-top:100px;
+    overflow:hidden;
+    
+}
+.email{
+    background: -webkit-linear-gradient(left,rgb(0, 200, 255),rgb(89, 150, 161),rgb(31, 6, 216));
+    width:90px;
+    border-radius: 6px;
+}
+.password{
+    background: -webkit-linear-gradient(lef t,rgb(0, 200, 255),rgb(89, 150, 161),rgb(31, 6, 216));
+    width:110px;
+    border-radius: 6px ;
+
+}
+.container
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+.c1{
+    background: -webkit-linear-gradient(left,rgb(0, 200, 255),rgb(89, 150, 161),rgb(31, 6, 216));
+}
+.card{
+    background: -webkit-linear-gradient(left,rgb(0, 200, 255),rgb(89, 150, 161),rgb(31, 6, 216));
+}

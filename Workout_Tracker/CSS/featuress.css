@@ -1,0 +1,10 @@
+.row{
+    background: -webkit-linear-gradient(rgb(114, 183, 97),rgb(174, 94, 153),rgb(94, 170, 174),rgb(127, 183, 97));
+}
+body{
+    background-color: black;
+}
+
+.card{
+    background: -webkit-linear-gradient(rgb(185, 96, 96),rgb(245, 149, 149),rgb(225, 138, 138),rgb(236, 135, 135));
+}
